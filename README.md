@@ -1,4 +1,24 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJtree03%2Fhit-counter&count_bg=%2370C6FF&title_bg=%238E8B8B&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+🖐 Hello. I'm a **Software Engineer**. 
+💻 My major is **computer science**.
+🎡 I have project experience using **JavaScript**, Dart(for Flutter), C++, Python(for Crawling or Server) and Java(for Android).
+🔭 I'm currently interested in **Backend Development** and DevOps.
+🌱 I’m currently learning **NestJS** and **React**.
+
+🎃 Thank you!
+ 
+# 💼 Careers
+| **Type** | **Date** | **Content** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Contract Worker** | 2020. 10 ~ 2021. 4 | Backend Developer | **MalangHoney** |
+| **Undergraduate** | 2015. 3 ~ 2021. 2 | Department of Computer Science | **Gyeongsang National University** |
+
+# 🧿 Languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)
+
+# 📫 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wowns0903@gmail.com)](mailto:wowns0903@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wowns0903@naver.com)](mailto:wowns0903@naver.com)
 
 <!--
 **Jtree03/Jtree03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
