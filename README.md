@@ -1,11 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJtree03%2Fhit-counter&count_bg=%2370C6FF&title_bg=%238E8B8B&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🖐 Hello. I'm a **Software Engineer**. 
-💻 My major is **computer science**.
-🎡 I have project experience using **JavaScript**, Dart(for Flutter), C++, Python(for Crawling or Server) and Java(for Android).
-🔭 I'm currently interested in **Backend Development** and DevOps.
-🌱 I’m currently learning **NestJS** and **React**.
-
+🖐 Hello. I'm a **Software Engineer**.  
+  
+💻 My major is **computer science**.  
+🎡 I have project experience using **JavaScript**, Dart(for Flutter), C++, Python(for Crawling or Server) and Java(for Android).  
+🔭 I'm currently interested in **Backend Development** and DevOps.  
+🌱 I’m currently learning **NestJS** and **React**.  
+  
 🎃 Thank you!
  
 # 💼 Careers
