@@ -12,8 +12,8 @@
 # 💼 Careers
 | **Type** | **Date** | **Content** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Contract Worker** | 2020. 10 ~ 2021. 4 | Backend Developer | **MalangHoney** |
-| **Undergraduate** | 2015. 3 ~ 2021. 2 | Department of Computer Science | **Gyeongsang National University** |
+| **Contract Worker** | 2020.10 ~ 2021.04 | Backend Developer | **MalangHoney** |
+| **Undergraduate** | 2015.03 ~ 2021.02 | Department of Computer Science | **Gyeongsang National University** |
   
 # 🧿 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)  
