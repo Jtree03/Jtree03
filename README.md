@@ -3,8 +3,8 @@
 🖐 Hello. I'm a **Software Engineer**.  
   
 💻 My major is **computer science**.  
-🎡 I have project experience using **JavaScript**, Dart(for Flutter), C++, Python(for Crawling or Server) and Java(for Android).  
-🔭 I'm currently interested in **Backend Development** and DevOps.  
+🎡 I have language experience using **JavaScript(for Server)**, Dart(for Flutter), C++(for Problem-Solving), Python(for Crawling and Server) and Java(for Android).  
+🔭 I'm currently interested in **DDD(Domain Driven Design)**.  
 🌱 I’m currently learning **NestJS** and **React**.  
   
 🎃 Thank you!
@@ -15,7 +15,7 @@
 | **Contract Worker** | 2020. 10 ~ 2021. 4 | Backend Developer | **MalangHoney** |
 | **Undergraduate** | 2015. 3 ~ 2021. 2 | Department of Computer Science | **Gyeongsang National University** |
 
-# 🧿 Languages
+# 🧿 Tech
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 Contacts
