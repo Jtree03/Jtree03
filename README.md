@@ -16,8 +16,8 @@
 | **Undergraduate** | 2015. 3 ~ 2021. 2 | Department of Computer Science | **Gyeongsang National University** |
 
 # 🧿 Tech
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jtree03)](https://github.com/anuraghazra/github-readme-stats)  
 
 # 📫 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wowns0903@gmail.com)](mailto:wowns0903@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wowns0903@naver.com)](mailto:wowns0903@naver.com)
