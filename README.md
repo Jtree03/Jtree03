@@ -4,7 +4,7 @@
 | **Type** | **Date** | **Content** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Company** | 2021.04 ~ now | Fullstack | **MalangHoney** |
-| **Company** | 2020.10 ~ 2021.04 | Backend | **MalangHoney** |
+| **Contract** | 2020.10 ~ 2021.04 | Backend | **MalangHoney** |
 | **University** | 2015.03 ~ 2021.02 | Computer Science | **Gyeongsang National University** |
   
 # 🧿 Stats
