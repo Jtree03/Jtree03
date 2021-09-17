@@ -3,7 +3,7 @@
 # 💼 Careers
 | **Type** | **Date** | **Content** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Company** | 2020.09 ~ now | Fullstack | **Wecode** |
+| **Company** | 2021.09 ~ now | Fullstack | **Wecode** |
 | **Company** | 2020.10 ~ 2021.08 | Fullstack | **MalangHoney** |
 | **University** | 2015.03 ~ 2021.02 | Computer Science | **Gyeongsang National University** |
   
